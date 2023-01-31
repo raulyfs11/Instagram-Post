@@ -1,0 +1,42 @@
+body {
+   font-family: 'Roboto', sans-serif;
+}
+
+.post{
+    width: 300px;
+    height: 380px;
+    margin: 0% auto;
+}
+
+.picture {
+    width: 100px;
+    height: 60%;
+    background-color:blue;
+}
+
+img{
+    object-fit: cover;
+    width: 300px;
+    height: 60%;
+}
+
+.head{
+
+    width: 300px;
+    height: 10%;
+}
+
+.interaction{
+
+    width: 300px;
+    height: 5%;
+}
+
+.interaction2{
+    width: 300px;
+    height: 5%;
+}
+.caption{
+    width: 300px;
+    height: 20%;
+}
